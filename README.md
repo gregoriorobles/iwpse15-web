@@ -3,11 +3,16 @@ IWPSE 2015 website
 
 Website for the 14th International Workshop on Principles of Software Evolution
 
-Co-located with ESEC/FSE 15, early September 2015 in Bergamo, Italy
+Co-located with ESEC/FSE 15, August 30th 2015 in Bergamo, Italy
 
-Live Preview
+Production Site
 =======================================================================
 http://iwpse15.libresoft.es
+
+
+Beta version
+=======================================================================
+http://gregoriorobles.github.io/iwpse15-web
 
 
 License
